@@ -1,4 +1,4 @@
-[![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)]
+![MasterHead](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 <h1 align="center">Hi 👋, I'm Sachin Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
